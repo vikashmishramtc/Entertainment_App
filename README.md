@@ -38,12 +38,12 @@ This application was created using [create-t3-app](https://github.com/t3-oss/cre
 
 2. Clone your repository (do not forget to add `your account name`):
 ```bash
-$ git clone https://github.com/[YOUR ACCOUNT NAME]/movies-entertainment-app.git
+$ git clone https://github.com/Ankit1-git/Entertainment_App
 ```
 
 3. Go into the repository and install dependencies:
 ```bash
-$ cd movies-entertainment-app
+$ cd Entertainment-App
 
 $ npm install
 ```
