@@ -67,7 +67,7 @@ $ npm run dev
 
 ## 🛠️ Authors
 
-👩‍💻 Moh Salman [@farsi8273](https://github.com/farsi8273)
+Ankit Sharma
 
 
 
